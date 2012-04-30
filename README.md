@@ -1,4 +1,4 @@
-config
+My Config Files
 ======
 
-My config files
+The config files for my macbook pro.
