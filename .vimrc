@@ -10,3 +10,4 @@
 :set shiftwidth=4
 filetype plugin indent on
 autocmd FileType python set complete+=k~/.vim/syntax/python.vim isk+=.,(
+let g:pydiction_location = "/Users/henrybradlow/.vim/files/complete-dict"
